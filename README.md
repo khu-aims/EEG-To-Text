@@ -77,6 +77,7 @@ Performance comparison:
 Please refer to the scripts in `main` for:
 - Training with EEG or noise
 - Non-teacher-forced inference
+- Bootstrap-based statistical evaluation
 
 We welcome community validation and extensions of our methodology.
 
