@@ -91,6 +91,11 @@ For questions, issues, or collaboration:
 
 ---
 
+## Acknowledgements
+This work was supported in part by the Culture, Sports and Tourism Research and Development Program through Korea Creative Content Agency grant funded by the Ministry of Culture, Sports and Tourism under Grant RS-2023-00226263; and in part by the Institute of Information and Communications Technology Planning and Evaluation (IITP), funded by Korean Government (MSIT), through the Global AI Frontier Laboratory under Grant RS-2024-00509257, through the Information Technology Research Center (ITRC) under Grant IITP-2024-RS-2024-00438239, and through the AI Convergence Innovation Human Resources Development, Kyung Hee University under Grant RS-2022-00155911.
+
+---
+
 ## 📝 Citation
 If you use this repository, please cite:
 
@@ -105,5 +110,4 @@ If you use this repository, please cite:
 
 ---
 
-## Acknowledgements
-This work was supported in part by the Culture, Sports and Tourism Research and Development Program through Korea Creative Content Agency grant funded by the Ministry of Culture, Sports and Tourism under Grant RS-2023-00226263; and in part by the Institute of Information and Communications Technology Planning and Evaluation (IITP), funded by Korean Government (MSIT), through the Global AI Frontier Laboratory under Grant RS-2024-00509257, through the Information Technology Research Center (ITRC) under Grant IITP-2024-RS-2024-00438239, and through the AI Convergence Innovation Human Resources Development, Kyung Hee University under Grant RS-2022-00155911.
+
