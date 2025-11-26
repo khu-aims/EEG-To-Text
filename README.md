@@ -85,6 +85,7 @@ We welcome community validation and extensions of our methodology.
 
 ## 🤝 Contact
 For questions, issues, or collaboration:
+
 📧 Hyejeong Jo — girlsending0@khu.ac.kr  
 📧 Won Hee Lee — whlee@khu.ac.kr
 
